@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9370RS03 - .  " 
+
+Fri Jan 29 08:57:08 2016 --  9370RS03 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9370RS03 | 0000 | S   
+
+Fri Jan 29 08:57:08 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9370RS03 | 0000 | Win7 |  
+
+Fri Jan 29 08:57:21 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9370RS03 - .  | 0000 | 0-0-0-0-0 |  

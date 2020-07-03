@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9570BO01 - .  " 
+
+Fri Jun 05 10:21:24 2015 --  9570BO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9570BO01 | 0000 | S   
+
+Fri Jun 05 10:21:24 2015 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9570BO01 | 0000 | Win7 |  
+
+Fri Jun 05 10:21:38 2015 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9570BO01 - .  | 0000 | 0-0-0-0-0 |  

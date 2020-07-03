@@ -1,0 +1,95 @@
+"*** server_valida  Validacion - configuracion servidor 9349SRV1 - IP: 10.14.35.1 en oficina 9349-ProPatria " 
+
+Thu Oct 10 23:04:31 2013 --  9349SRV1 | Appl:SO | Paso:F0-1-1-Validando comunicacion con 9349SRV1 | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F0-1-2-Validando version OS 2008 en 9349SRV1 | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-1-Validando Recurso-MOAPROJ | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-2-Validando Recurso-BMLS100 | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-3-Validando Recurso-CEMP_backup | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-4-Validando Recurso-buzon | 000 | OK |  
+
+Thu Oct 10 23:04:34 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-5-Validando Recurso-envia | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-6-Validando Recurso-oficina_mercantil | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-7-Validando Recurso-log | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:SO | Paso:F1-1-8-Validando Recurso-Imagen | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-2-1-Validando si existe carpeta CDS | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-2-2-Validando 9349 en archivo ddproj.ini | 000 | OK |  
+
+Thu Oct 10 23:04:35 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-2-3-Validando 9349 en archivo ddproj.ini.prod | 000 | OK |  
+
+Thu Oct 10 23:04:38 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-2-4-Validando 9349 en archivo DDPROJ.ini.cont | 000 | OK |  
+
+Thu Oct 10 23:04:38 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-2-5-Validando CDS_demo01 | 000 | OK |  
+
+Thu Oct 10 23:04:38 2013 --  9349SRV1 | Appl:Lectora | Paso:F1-3-1-Validando 9349 en archivo CTSParameters.ini | 000 | OK |  
+
+Thu Oct 10 23:04:38 2013 --  9349SRV1 | Appl:Lectora | Paso:F1-3-2-Validando 9349 en archivo CTSParameters.ini.prod | 000 | OK |  
+
+Thu Oct 10 23:04:38 2013 --  9349SRV1 | Appl:Lectora | Paso:F1-3-3-Validando 9349 en archivo CTSParameters.ini.cont | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-1-Validando tarea cce_cont_cds | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-2-Validando tarea cce_cont_back | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-3-Validando tarea MOS_MANT_CDS | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-4-Validando tarea MOS_MANT_KILL | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-5-Validando tarea MOS_COMIS | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-6-Validando tarea MOS_COMIS_1 | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-7-Validando tarea MOS_DEPO | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-8-Validando tarea MOS_RESP_CDS | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-8-Validando tarea MOS_RESP_CDS | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-9-Validando tarea MOS_SERVICOM | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-10-Validando tarea MOS_CHQ_GER | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-11-Validando tarea MOS_QL_PERFIL | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-12-Validando tarea RESPALDO_HOY-1 | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-13-Validando tarea RESPALDO_HALL | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-14-Validando tarea SEG_FTP | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:SO | Paso:F1-4-15-Validando tarea DEL_CEMP | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:BIOSHOT | Paso:F1-5-1-Validando BIOSHOTOFFICESERVICE en archivo hosts | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:BIOSHOT | Paso:F1-5-2-Validando servicio BioShotOfficeServiceCls | 000 | OK |  
+
+Thu Oct 10 23:04:46 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-6-1-Revisar activacion flag 218 - No grabar dat en C de wks con win7 | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:JBOSS | Paso:F1-7-1-Validar servicio JBossWeb | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:MOSAIC | Paso:F1-7-2-Validar servicio MOSAIC MSW" | 000 | OK |   
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:MosaicProxy | Paso:F1-7-3-Validar servicio MosaicProxy instalado | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:MosaicSpider | Paso:F1-7-4-Validar servicio MosaicSpiderSrv | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:HALL | Paso:F1-7-5-Validar servicio HallService | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:BIOSHOT | Paso:F2-1-1-Validando fecha en archivo BioShotOfficeService.exe.config  | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:Lectora | Paso:F2-2-1-Validar que Imagen2 no exista en CTSParameters.ini | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:SO | Paso:F2-3-1-Validando archivo DEL_CEMP | 000 | OK |  
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:BIOSHOT | Paso:F2-4-1-Validar servicio BioShot Status Transfer Service" | 000 | OK |   
+
+Thu Oct 10 23:04:47 2013 --  9349SRV1 | Appl:* | Paso:FIN-FIN Configuracion | 000 | OK  |  

@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo B3CRVR1 - .  " 
+
+Thu Mar 27 15:57:09 2014 --  B3CRVR1 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con B3CRVR1 | 0000 | S   
+
+Thu Mar 27 15:57:09 2014 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en B3CRVR1 | 0000 | Win7 |  
+
+Thu Mar 27 15:57:09 2014 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en B3CRVR1 - .  | 0000 | 1-1-1-1-1 |  

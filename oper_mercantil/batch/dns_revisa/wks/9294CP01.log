@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9294CP01 - .  " 
+
+Wed Sep 14 10:27:56 2016 --  9294CP01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9294CP01 | 0000 | S   
+
+Wed Sep 14 10:27:56 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9294CP01 | 0000 | Win7 |  
+
+Wed Sep 14 10:28:17 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9294CP01 - .  | 0000 | 0-0-0-0-0 |  

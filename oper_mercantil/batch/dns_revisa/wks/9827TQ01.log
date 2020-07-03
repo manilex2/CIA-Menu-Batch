@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9827TQ01 - 0.0.0.0  " 
+
+Wed Nov 06 10:47:53 2013 --  9827TQ01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9827TQ01 | 0000 | S   
+
+Wed Nov 06 10:47:53 2013 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9827TQ01 | 0000 | XP |  
+
+Wed Nov 06 10:48:17 2013 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9827TQ01 - 0.0.0.0  | 0000 | 0-0-0-0-0 |  

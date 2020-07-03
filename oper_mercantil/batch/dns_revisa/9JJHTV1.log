@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9JJHTV1 - .  " 
+
+Thu Aug 18 10:56:20 2016 --  9JJHTV1 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9JJHTV1 | 0000 | S   
+
+Thu Aug 18 10:56:21 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9JJHTV1 | 0000 | Win7 |  
+
+Thu Aug 18 10:56:27 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9JJHTV1 - .  | 0000 | 1-1-1-1-1 |  

@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9445CO01 - .  " 
+
+Thu Jul 21 11:46:58 2016 --  9445CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9445CO01 | 0000 | S   
+
+Thu Jul 21 11:46:59 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9445CO01 | 0000 | Win7 |  
+
+Thu Jul 21 11:47:14 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9445CO01 - .  | 0000 | 0-0-0-0-0 |  

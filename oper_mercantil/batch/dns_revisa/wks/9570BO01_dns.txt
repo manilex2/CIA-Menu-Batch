@@ -1,0 +1,46 @@
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : 9570BO01
+   Sufijo DNS principal  . . . . . : oficina.banco.MercantilSF.com
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de b£squeda de sufijos DNS: oficina.banco.mercantilsf.com
+                                       banco.mercantilsf.com
+                                       mercantilsf.com
+                                       seguros.mercantilsf.com
+
+Adaptador de Ethernet Conexi¢n de  rea local:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 10-60-4B-85-0F-5B
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 10.10.129.11(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 10.10.129.254
+   Servidores DNS. . . . . . . . . . . . . . : 10.5.10.127
+                                       10.5.10.128
+                                       10.5.10.129
+                                       10.1.1.84
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de t£nel isatap.{8209A918-1EAC-474A-8EB3-C0EAD56BB72C}:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Adaptador ISATAP de Microsoft
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de t£nel Conexi¢n de  rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Adaptador de tunelizaci¢n Teredo de Microsoft
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡

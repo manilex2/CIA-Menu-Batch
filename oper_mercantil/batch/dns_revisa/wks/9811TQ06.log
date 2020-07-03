@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9811TQ06 - .  " 
+
+Tue Apr 15 08:43:18 2014 --  9811TQ06 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9811TQ06 | 0000 | S   
+
+Tue Apr 15 08:43:18 2014 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9811TQ06 | 0000 | Win7 |  
+
+Tue Apr 15 08:43:32 2014 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9811TQ06 - .  | 0000 | 0-0-0-0-0 |  

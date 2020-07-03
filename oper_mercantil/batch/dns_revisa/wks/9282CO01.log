@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9282CO01 - .  " 
+
+Tue Oct 20 11:31:48 2015 --  9282CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9282CO01 | 0000 | S   
+
+Tue Oct 20 11:31:48 2015 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9282CO01 | 0000 | Win7 |  
+
+Tue Oct 20 11:32:03 2015 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9282CO01 - .  | 0000 | 0-0-0-0-0 |  

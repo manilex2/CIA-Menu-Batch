@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9350CO01 - .  " 
+
+Wed Aug 17 08:42:56 2016 --  9350CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9350CO01 | 0000 | S   
+
+Wed Aug 17 08:42:56 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9350CO01 | 0000 | Win7 |  
+
+Wed Aug 17 08:43:10 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9350CO01 - .  | 0000 | 0-0-0-0-0 |  

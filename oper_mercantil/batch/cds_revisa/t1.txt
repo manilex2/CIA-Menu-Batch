@@ -1,0 +1,9 @@
+
+NOMBRE_SERVICIO: cds_demo01 
+        TIPO               : 10  WIN32_OWN_PROCESS  
+        ESTADO             : 4  RUNNING 
+                                (STOPPABLE, PAUSABLE, ACCEPTS_SHUTDOWN)
+        C‡D_SALIDA_WIN32   : 0  (0x0)
+        C‡D_SALIDA_SERVICIO: 0  (0x0)
+        PUNTO_COMPROB.     : 0x0
+        INDICACI‡N_INICIO  : 0x0

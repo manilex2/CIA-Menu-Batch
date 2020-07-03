@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9394RS01 - .  " 
+
+Wed Aug 24 10:00:14 2016 --  9394RS01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9394RS01 | 0000 | S   
+
+Wed Aug 24 10:00:14 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9394RS01 | 0000 | Win7 |  
+
+Wed Aug 24 10:00:30 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9394RS01 - .  | 0000 | 0-0-0-0-0 |  

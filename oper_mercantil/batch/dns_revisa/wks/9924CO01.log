@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9924CO01 - .  " 
+
+Thu Aug 18 10:57:49 2016 --  9924CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9924CO01 | 0000 | S   
+
+Thu Aug 18 10:57:49 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9924CO01 | 0000 | Win7 |  
+
+Thu Aug 18 10:58:08 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9924CO01 - .  | 0000 | 0-0-0-0-0 |  

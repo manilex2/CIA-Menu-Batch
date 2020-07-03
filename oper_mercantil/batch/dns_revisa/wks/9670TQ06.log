@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9670TQ06 - 0.0.0.0  " 
+
+Thu Jan 02 09:03:58 2014 --  9670TQ06 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9670TQ06 | 0000 | S   
+
+Thu Jan 02 09:03:58 2014 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9670TQ06 | 0000 | XP |  
+
+Thu Jan 02 09:04:19 2014 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9670TQ06 - 0.0.0.0  | 0000 | 0-0-0-0-0 |  

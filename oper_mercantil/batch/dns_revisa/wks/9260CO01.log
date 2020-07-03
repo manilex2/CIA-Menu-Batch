@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9260CO01 - .  " 
+
+Mon Mar 31 09:27:33 2014 --  9260CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9260CO01 | 0000 | S   
+
+Mon Mar 31 09:27:33 2014 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9260CO01 | 0000 | Win7 |  
+
+Mon Mar 31 09:27:47 2014 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9260CO01 - .  | 0000 | 0-0-0-0-0 |  

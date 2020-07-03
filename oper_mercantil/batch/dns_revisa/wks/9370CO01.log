@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9370CO01 - .  " 
+
+Thu Oct 08 09:07:28 2015 --  9370CO01 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9370CO01 | 0000 | S   
+
+Thu Oct 08 09:07:28 2015 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9370CO01 | 0000 | Win7 |  
+
+Thu Oct 08 09:07:43 2015 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9370CO01 - .  | 0000 | 0-0-0-0-0 |  

@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9229TQ02 - .  " 
+
+Mon Apr 14 08:36:25 2014 --  9229TQ02 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9229TQ02 | 0000 | S   
+
+Mon Apr 14 08:36:25 2014 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9229TQ02 | 0000 | Win7 |  
+
+Mon Apr 14 08:36:39 2014 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9229TQ02 - .  | 0000 | 0-0-0-0-0 |  

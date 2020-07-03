@@ -1,0 +1,29 @@
+
+Configuración IP de Windows
+
+        Nombre del host . . . . . . . . . : 9670tq06
+        Sufijo DNS principal  . . . . . . : oficina.banco.mercantilsf.com
+        Tipo de nodo. . . . . . . . . . . : híbrido
+        Enrutamiento habilitado. . . . . .: No
+        Proxy WINS habilitado. . . . .    : No
+        Lista de búsqueda de sufijo DNS:    oficina.banco.mercantilsf.com
+                                            banco.mercantilsf.com
+                                            mercantilsf.com
+                                            seguros.mercantilsf.com
+
+Adaptador Ethernet Conexión de área local 5          :
+
+        Sufijo de conexión específica DNS : 
+        Descripción. . . . . . . . . . .  : Broadcom NetLink (TM) Gigabit Ethernet
+        Dirección física. . . . . . . . . : 00-16-41-2E-AC-59
+        DHCP habilitado. . . . . . . . .  : No
+        Dirección IP. . . . . . . . . . . : 10.10.190.9
+        Máscara de subred . . . . . . . . : 255.255.255.0
+        Puerta de enlace predeterminada   : 10.10.190.254
+        Servidores DNS . . . . . . . . . .: 10.0.1.82
+                                            10.0.1.66
+                                            10.1.1.82
+                                            10.1.1.1
+                                            10.1.1.220
+        Servidor WINS principal . . . . . : 10.0.1.82
+        Servidor WINS secundario . . . .  : 10.0.1.66

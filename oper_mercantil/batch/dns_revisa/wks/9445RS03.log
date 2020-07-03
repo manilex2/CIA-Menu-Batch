@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo 9445RS03 - .  " 
+
+Tue Sep 13 11:31:08 2016 --  9445RS03 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9445RS03 | 0000 | S   
+
+Tue Sep 13 11:31:08 2016 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en 9445RS03 | 0000 | Win7 |  
+
+Tue Sep 13 11:31:22 2016 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9445RS03 - .  | 0000 | 0-0-0-0-0 |  

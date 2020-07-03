@@ -1,0 +1,7 @@
+[Languages]
+1=Spanish
+
+[Charsets]
+Spanish=0
+
+[cds]

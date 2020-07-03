@@ -1,0 +1,7 @@
+"*** dns_valida  Validacion - actualizacion dns en equipo MXL3061GHJ - .  " 
+
+Thu Nov 12 08:05:26 2015 --  MXL3061GHJ | Appl:SO | Paso:QUERY-IP-Validando comunicacion con MXL3061GHJ | 0000 | S   
+
+Thu Nov 12 08:05:26 2015 --   | Appl:SO | Paso:QUERY-OS-Validando version OS en MXL3061GHJ | 0000 | Win7 |  
+
+Thu Nov 12 08:05:26 2015 --   | Appl:SO | Paso:ACT-DNS-Actualizando DNS en MXL3061GHJ - .  | 0000 | 1-1-1-1-1 |  

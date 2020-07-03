@@ -1,0 +1,4 @@
+Faulting application name: BioShotOfficeService.exe, version: 3.0.1.1, time stamp: 0x51796838
+Faulting module name: ntdll.dll, version: 6.1.7601.17725, time stamp: 0x4ec4aa8e
+Exception code: 0xc00000fd
+Fault offset: 0x0000000000018e3d

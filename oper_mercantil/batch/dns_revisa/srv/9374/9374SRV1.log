@@ -1,0 +1,7 @@
+"*** dns_revisa_srv  Validacion - actualizacion dns en equipo 9374SRV1 - 10.10.110.2  " 
+
+Fri Feb 26 15:47:11 2016 --  9374SRV1 | Appl:SO | Paso:QUERY-IP-Validando comunicacion con 9374SRV1 | 0000 | S   
+
+Fri Feb 26 15:47:12 2016 --  9374SRV1 | Appl:SO | Paso:QUERY-OS-Validando version OS en 9374SRV1 | 0000 | 010000 |  
+
+Fri Feb 26 15:47:47 2016 --  9374SRV1 | Appl:SO | Paso:ACT-DNS-Actualizando DNS en 9374SRV1 - 10.10.110.2  | 0000 | 2008  - 0-0-0-0-0 |  
